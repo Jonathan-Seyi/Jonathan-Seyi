@@ -50,6 +50,7 @@ I enjoy turning practical problems into working software, from **AI-powered prod
 | **[AI Resume Match](https://github.com/Jonathan-Seyi/ai-projects/tree/main/ai-resume-match)** | Compares resumes with job descriptions and offers improvement suggestions and interview questions. Includes a local heuristic fallback. | Python, Streamlit, optional LLM |
 | **[AI Support Ticket Assistant](https://github.com/Jonathan-Seyi/ai-projects/tree/main/ai-support-ticket-assistant)** | Summarizes support requests, classifies issues, and drafts suggested responses. | Python, Streamlit, LLM workflow |
 | **[AI Notes Chat](https://github.com/Jonathan-Seyi/ai-projects/tree/main/ai-rag-notes-chat)** | Retrieves relevant note excerpts before generating a response to a question. | Python, Streamlit, retrieval |
+| **[Application Atlas](https://github.com/Jonathan-Seyi/ai-projects/tree/main/job-application-tracker)** | Offline job application dashboard with search, status tracking, pipeline metrics and CSV export. | JavaScript, HTML, CSS |
 
 <div align="center">
   <a href="https://github.com/Jonathan-Seyi/ai-projects"><b>Explore the AI projects repository →</b></a>
