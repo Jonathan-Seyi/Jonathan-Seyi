@@ -1,16 +1,73 @@
-## Hi there 👋
+<div align="center">
+  <img src="./assets/hero.svg" alt="Jonathan Oluwaseyi — Software Developer, AI tools and web applications" width="100%" />
+  <br />
+  <br />
+  <a href="https://github.com/Jonathan-Seyi?tab=repositories"><img alt="GitHub repositories" src="https://img.shields.io/badge/Explore-My%20Projects-15b8a6?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Jonathan-Seyi/ai-projects"><img alt="AI projects" src="https://img.shields.io/badge/Featured-AI%20Projects-7664dc?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <br />
+  <br />
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Jonathan-Seyi&label=Profile%20Views&color=667eea&style=flat-square" />
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Jonathan-Seyi?style=flat-square&color=0ea5a4&label=Followers" />
+</div>
 
-<!--
-**Jonathan-Seyi/Jonathan-Seyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 About me
 
-Here are some ideas to get you started:
+I'm **Jonathan Oluwaseyi**, a software developer based in **Moncton, New Brunswick, Canada**. I have a BSc in **Computer Science from Landmark University** and I'm currently studying at **NBCC**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning practical problems into working software, from **AI-powered productivity tools** to **web applications and backend systems**. I'm developing my skills through projects involving Python, C#, JavaScript, Java, C++, SQL, and ASP.NET Core.
+
+- 🔭 **Building:** More reliable AI apps, APIs, and full-stack projects
+- 🌱 **Learning:** Software architecture, database-backed applications, and applied AI
+- 🎯 **Goal:** Grow into a well-rounded software developer and contribute to impactful products
+- 🤝 **Interested in:** Software development internships, collaborative projects, and learning from other developers
+
+## 🧰 Tech stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Web, backend and tools**
+
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+## 🚀 Featured projects
+
+| Project | What it does | Stack |
+| :--- | :--- | :--- |
+| **[AI Resume Match](https://github.com/Jonathan-Seyi/ai-projects/tree/main/ai-resume-match)** | Compares resumes with job descriptions and offers improvement suggestions and interview questions. Includes a local heuristic fallback. | Python, Streamlit, optional LLM |
+| **[AI Support Ticket Assistant](https://github.com/Jonathan-Seyi/ai-projects/tree/main/ai-support-ticket-assistant)** | Summarizes support requests, classifies issues, and drafts suggested responses. | Python, Streamlit, LLM workflow |
+| **[AI Notes Chat](https://github.com/Jonathan-Seyi/ai-projects/tree/main/ai-rag-notes-chat)** | Retrieves relevant note excerpts before generating a response to a question. | Python, Streamlit, retrieval |
+
+<div align="center">
+  <a href="https://github.com/Jonathan-Seyi/ai-projects"><b>Explore the AI projects repository →</b></a>
+</div>
+
+## 📊 GitHub activity
+
+<div align="center">
+  <img alt="GitHub statistics for Jonathan-Seyi" src="https://github-readme-stats.vercel.app/api?username=Jonathan-Seyi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" />
+  <img alt="Most used languages across public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan-Seyi&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</div>
+
+<sub>Stats and language charts are generated by third-party GitHub widgets. Language usage is based on repository contents, not a measure of expertise.</sub>
+
+## 📍 What I'm working toward
+
+I use this account to document software I build and the skills I develop. My focus is on small, useful projects with **clear READMEs, reproducible setup steps, and gradually improving tests**. Check back as the portfolio grows.
+
+<div align="center">
+  <sub>Thanks for visiting. Feel free to explore a project or connect through GitHub.</sub>
+</div>
