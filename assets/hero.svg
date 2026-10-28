@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-label="Jonathan Oluwaseyi, software developer building AI and web applications">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1023"/>
+      <stop offset="55%" stop-color="#151c36"/>
+      <stop offset="100%" stop-color="#101b32"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58e1cc"/>
+      <stop offset="100%" stop-color="#9f86ff"/>
+    </linearGradient>
+    <radialGradient id="glow1"><stop offset="0%" stop-color="#217b87" stop-opacity=".50"/><stop offset="100%" stop-color="#217b87" stop-opacity="0"/></radialGradient>
+    <radialGradient id="glow2"><stop offset="0%" stop-color="#6954c1" stop-opacity=".40"/><stop offset="100%" stop-color="#6954c1" stop-opacity="0"/></radialGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1.2" fill="#b6c4e6" opacity=".18"/></pattern>
+    <filter id="shadow"><feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#050913" flood-opacity=".45"/></filter>
+  </defs>
+  <rect width="1200" height="350" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="350" rx="24" fill="url(#dots)"/>
+  <ellipse cx="1040" cy="115" rx="340" ry="280" fill="url(#glow1)"/>
+  <ellipse cx="490" cy="390" rx="500" ry="260" fill="url(#glow2)"/>
+  <path d="M0 312 C210 270 292 340 465 299 S860 255 1200 310" stroke="#58e1cc" stroke-opacity=".19" stroke-width="2" fill="none"/>
+  <path d="M0 332 C270 290 392 365 640 301 S970 290 1200 336" stroke="#a58cff" stroke-opacity=".19" stroke-width="2" fill="none"/>
+  <rect x="64" y="44" width="207" height="34" rx="17" fill="#182942" stroke="#4bd4c0" stroke-opacity=".45"/>
+  <circle cx="82" cy="61" r="5" fill="#58e1cc"/>
+  <text x="97" y="67" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="14" fill="#b9f4ea" letter-spacing="1.7">HELLO, WORLD</text>
+  <text x="63" y="154" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="53" fill="#f4f6ff">Jonathan Oluwaseyi</text>
+  <rect x="64" y="179" width="92" height="4" rx="2" fill="url(#accent)"/>
+  <text x="63" y="219" font-family="Arial,Helvetica,sans-serif" font-size="22" fill="#80e8dd" font-weight="700">SOFTWARE DEVELOPER</text>
+  <text x="63" y="253" font-family="Arial,Helvetica,sans-serif" font-size="21" fill="#d8d8f4">AI tools  /  Web apps  /  Backend systems</text>
+  <text x="63" y="298" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#aab7d5">Building useful software, one project at a time.</text>
+  <g filter="url(#shadow)">
+    <rect x="838" y="58" width="309" height="237" rx="17" fill="#111b30" stroke="#465f7d" stroke-opacity=".80"/>
+    <rect x="838" y="58" width="309" height="40" rx="17" fill="#24314a"/>
+    <rect x="838" y="82" width="309" height="17" fill="#24314a"/>
+    <circle cx="863" cy="78" r="5" fill="#ff707d"/>
+    <circle cx="883" cy="78" r="5" fill="#ffcf6c"/>
+    <circle cx="903" cy="78" r="5" fill="#70e3b9"/>
+    <text x="929" y="83" font-family="monospace" font-size="12" fill="#93a6c2">portfolio.ts</text>
+    <text x="863" y="130" font-family="monospace" font-size="15" fill="#a88bff">const</text>
+    <text x="925" y="130" font-family="monospace" font-size="15" fill="#c8d5eb"> developer = {</text>
+    <text x="886" y="161" font-family="monospace" font-size="14" fill="#72e3d8">focus:</text>
+    <text x="950" y="161" font-family="monospace" font-size="14" fill="#e5d58d">'building'</text>
+    <text x="886" y="189" font-family="monospace" font-size="14" fill="#72e3d8">stack:</text>
+    <text x="950" y="189" font-family="monospace" font-size="14" fill="#e5d58d">'full stack'</text>
+    <text x="886" y="217" font-family="monospace" font-size="14" fill="#72e3d8">curious:</text>
+    <text x="961" y="217" font-family="monospace" font-size="14" fill="#e5d58d">true</text>
+    <text x="863" y="247" font-family="monospace" font-size="15" fill="#c8d5eb">};</text>
+    <rect x="862" y="263" width="260" height="1" fill="#31455f"/>
+    <text x="863" y="283" font-family="monospace" font-size="11" fill="#8195b3">git status: always learning</text>
+  </g>
+</svg>
